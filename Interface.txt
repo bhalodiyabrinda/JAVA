@@ -1,0 +1,14 @@
+Interface
+
+-->It is a reference type, simoilar to class, collection of abstact method.
+-->It defines only abstact method and final fields, it dose not specify any code
+   to implement method.
+-->Class can implements interface so inherits acstract method and give 
+   specifications.
+-->Interface is similar to class but class describes attributes and behaviors 
+   while interface. 
+
+
+interface is differs from class in many ways like:
+
+interface can not 

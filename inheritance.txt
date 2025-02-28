@@ -1,0 +1,33 @@
+inheritance 
+--> inheritance is a function object oriented concept. 
+---> inheritance is an constructor proparty and beheaviour of child and parent table its reprents by a relationship.
+--> we can hide data.
+
+why inheritance::--
+--> for code reusability
+--> to achieve meyhod 
+
+example::--
+class subclass_name extends
+	superclass-name
+{
+}
+public class person 
+{
+	string name;
+	double ht,wt;
+}
+
+inheritance hierarchy::--
+--> Each java has one (and only one) superclass
+--> inheritance creates a class hierarchy
+--> classes higher in the hierarchy are more general and more abstract
+
+inheritance type::--
+1.single:- classA <-- classB
+2.multilevel:- classA <-- classB <-- classC
+3.hierarchica:- classB --> classA <-- classC
+ 
+following type are noy supported in java
+4.multiple:- classB <-- classA --> classC
+5.hybred:--

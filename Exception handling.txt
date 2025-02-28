@@ -1,0 +1,25 @@
+Exception handling 
+
+Difference between error and Exception?
+
+
+what is Exception?
+Exception can be defined as follows:"An Exception is an event that occurs during the Exception of a program, with disrupts the normal folw of the program's instructions".
+
+try
+{
+statements:
+}
+catch(Exceptionclass1 object)
+{
+statements for handling the Exception;
+}
+==========================================================================
+
+try: the 'try' keywordis used to specify a block where we should place an exception code. It means we can't try block alone.the try block must be followed by either catch or finally.
+
+catch: the "catch " block is used to handle the exception. it must be preceded by try block which means we can't use catch alone. it can be followed by finally block later.
+
+finally: The finally bolck is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
+===============================================================================
+
