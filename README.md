@@ -1,2 +1,2 @@
 # JAVA
-This is my basic project in Java and Experiments
+This is my basic project in Java 
